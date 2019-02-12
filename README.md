@@ -1,6 +1,8 @@
 # Lutris-RHEL-CentOS7
 Packages and method to install Lutris on RHEL and CentOS 7.x
 
+Lutris 5.0 Currently not working due to issue https://github.com/jatin-cbs/Lutris-RHEL-CentOS7/issues/1
+
 git clone https://github.com/jatin-cbs/Lutris-RHEL-CentOS7
 
 cd into the directory 
