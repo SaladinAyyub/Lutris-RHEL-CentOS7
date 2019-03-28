@@ -1,8 +1,6 @@
 # Lutris-RHEL-CentOS7
 Packages and method to install Lutris on RHEL and CentOS 7.x
 
-make sure having RPM fusion/ EPEL enabled.
-
 git clone https://github.com/jatin-cbs/Lutris-RHEL-CentOS7
 
 cd into the directory 
