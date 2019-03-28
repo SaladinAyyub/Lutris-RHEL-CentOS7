@@ -15,7 +15,6 @@ sudo yum install lutris-0.4.23-1.el7.noarch.rpm
 
 For Lutris 5.0 (not working currently due to https://github.com/jatin-cbs/Lutris-RHEL-CentOS7/issues/1)
 
-sudo yum install lutris-0.5.0.1-4.el7.x86_64.rpm
 
 no need to install vulkan and wine dependencies and included.
 
