@@ -7,6 +7,8 @@ Remove previous versions of lutris if installed
 
 sudo yum remove lutris
 
+Recommended to have RPM fusion and epel enabled.
+
 # Install Instructions
 
 git clone https://github.com/jatin-cbs/Lutris-RHEL-CentOS7/tree/master
