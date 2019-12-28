@@ -7,8 +7,8 @@ Install EPEL and rpm fusion.
 
 # Install Instructions
 
-git clone https://github.com/jatin-cbs/Lutris-RHEL-CentOS7/tree/master
+`git clone https://github.com/jatin-cbs/Lutris-RHEL-CentOS7`
 
 cd into the directory 
 
-sudo dnf install lutris-0.5.1.2-1.el7.x86_64.rpm
+`sudo dnf install lutris-0.5.1.2-1.el7.x86_64.rpm`
