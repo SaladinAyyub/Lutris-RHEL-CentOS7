@@ -11,4 +11,4 @@ Install EPEL and rpm fusion.
 
 cd into the directory 
 
-`sudo dnf install lutris-0.5.1.2-1.el7.x86_64.rpm`
+`sudo yum install lutris-0.5.1.2-1.el7.x86_64.rpm`
