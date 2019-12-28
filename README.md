@@ -12,3 +12,7 @@ Install EPEL and rpm fusion.
 cd into the directory 
 
 `sudo yum install lutris-0.5.1.2-1.el7.x86_64.rpm`
+
+# Optional (if you want to use gamemode)
+
+`sudo yum install gamemode-1.4-1.el7.x86_64.rpm`
